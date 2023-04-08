@@ -21,6 +21,6 @@ public class FrequencyOfElement {
 	            }
 	            System.out.println("Frequency of " +x+ " is " +count);
 	       }
- }
+	 }
 
 }
