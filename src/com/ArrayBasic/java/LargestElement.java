@@ -13,5 +13,4 @@ public class LargestElement {
 		System.out.println("Largest Element present in given array: " + max);
 	}
 
-
 }
