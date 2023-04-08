@@ -14,7 +14,9 @@ public class DublicateElementArray {
 	                    System.out.println("Duplicate Element Founds: " +inputNumArray[i]);
 	                }
 	            }
-	      }
- }
-
+	    
+		} 
+        
+	 }
+	
 }
