@@ -17,5 +17,5 @@ public class SecondLargestElementArray {
 		Arrays.sort(a); 
 		System.out.print("The Second Largest Number: " + a[num - 2]); 
 	}
-
+	
 }
