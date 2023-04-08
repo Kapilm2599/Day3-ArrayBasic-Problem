@@ -12,5 +12,4 @@ public class SmallestElement {
 		System.out.println("Smallest element present in given array: " + min);
 	}
 
-
 }
